@@ -1,0 +1,64 @@
+@media screen and (max-width: 960px){
+    .the_premium_quality{
+        font-size: 46px;
+    }
+    .sp_in_h2{
+        font-size: 46px;
+    }
+    .margin_180{
+        margin: 120px 0;
+    }
+}
+@media screen and (max-width: 767px){
+    .style_menu_text:hover::before{
+        width: 15%;
+        left: 0;
+    }
+    .margin_180{
+        margin: 60px 0;
+    }
+    .grab_your{
+        font-size: 18px;
+    }
+    .the_premium_quality{
+        font-size: 36px;
+    }
+    .sp_in_h2{
+        font-size: 36px;
+    }
+    .image_block{
+        clip-path: unset;
+    }
+}
+@media screen and (max-width: 575px){
+    .margin_180{
+        margin: 20px 0;
+    }
+    .grab_your{
+        font-size: 15px;
+    }
+    .the_premium_quality{
+        font-size: 22px;
+    }
+    .sp_in_h2{
+        font-size: 22px;
+    }
+    .sec1_button{
+        width: 150px;
+        height: 30px;
+        background-color: #282520;
+        border: unset;
+    }
+    .know_about_us_h2 {
+        font-size: 20px;
+    }
+    .know_about_us_p {
+        line-height: 1;
+    }
+    .mitchell_anderson {
+        font-size: 17px;
+    }
+    .creative_director {
+        font-size: 11px;
+    }
+}
