@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "JosefinSans Thin";
+    src: url('JosefinSans-Thin.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "OleoScript";
+    src: url('OleoScript-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "OleoScript-bold";
+    src: url('OleoScript-Bold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "OratorStd";
+    src: url('OratorStd.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Raleway";
+    src: url('Raleway-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
